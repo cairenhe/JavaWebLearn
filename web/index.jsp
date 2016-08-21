@@ -12,6 +12,6 @@
   </head>
   <body>
   <%out.println(new java.util.Date());%>
-  <p>Hello</p>
+  <p>Hello!</p>
   </body>
 </html>
